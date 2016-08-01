@@ -1,0 +1,8 @@
+**Faire LPCI  101et102 pour le CC
+**apt-get install bind9
+**lire 2008 serveur R2
+
+//Pour lundi
+**faire Active Directory
+*faire le DNS server sur 2008 avec adresse statique 172.16.16.1 pour le réseau ( 172.16.16.0/24)
+*faire DHCP
